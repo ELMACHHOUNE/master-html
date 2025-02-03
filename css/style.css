@@ -1,0 +1,60 @@
+form {
+    background-color: brown;
+  }
+
+  #inputform {
+    background-color: blueviolet;
+  }
+
+  .testP{
+    background-color: aquamarine;
+    border: 5px solid #033fe1;
+  }
+
+  /* h1 {
+	color: red;
+	font-family: roboto;
+	text-align: center;
+}
+
+h1, p{
+    border: 5px solid rgb(241, 10, 10);
+} */
+/* 
+article > p {
+    font-weight: bold;
+    background-color: #333;
+    color: #fff;
+    padding: .5em;
+} */
+
+
+/* h1 + p {
+    font-weight: bold;
+    background-color: #333;
+    color: #fff;
+    padding: .5em;
+} */
+
+
+/* h1 ~ p {
+    font-weight: bold;
+    background-color:red;
+    color: #fff;
+    padding: .5em;
+} */
+
+
+a:link {
+    color: tomato;
+}
+a:visited {
+    color: rgb(0, 223, 93);
+}
+
+
+p , h1 {
+    font-family: cursive;
+    font-size: 50px;
+    display: inline;
+}
